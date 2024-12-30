@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  background-color: #F5F5DC
+  
+}
+h2 {
+  font-size: 16px;
+}
+h3 {
+  font-size: 16px;
+}
+.pregnancy-recommendation {
+  font-style: italic;
+  text-decoration: underline;
+}
+.breastfeeding-recommendation {
+  font-style: italic;
+  text-decoration: underline;
+}
+.pregnancy-summary {
+  font-style: italic;
+  text-decoration: underline;
+}
+.breastfeeding-summary {
+  font-style: italic;
+  text-decoration: underline;
+}
