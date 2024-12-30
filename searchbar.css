@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+}
+
+.search-container {
+  display: below;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px
+}
+.search-bar {
+  width: 200px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  font-size: 16px;
+}
+
+.search-bar option[value="option1"] {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+.search-bar option[value="option2"] {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
