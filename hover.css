@@ -1,0 +1,22 @@
+.lower-left-image {
+  transition: transform 0.3s ease; /* Add a smooth transition */
+}
+
+.lower-left-image:hover {
+  transform: scale(1.1); /* Make the image slightly bigger on hover */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add a shadow for depth */
+}
+.lower-right-icon {
+  transition: transform 0.3s ease; /* Add a smooth transition */
+}
+
+.lower-right-icon:hover {
+  transform: scale(1.1); /* Make the image slightly bigger on hover */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add a shadow for depth */
+}
+
+  .center-icon:hover {
+    transform: scale(1.1); /* Make the image slightly bigger on hover */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add a shadow for depth */
+  
+}
